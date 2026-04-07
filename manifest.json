@@ -2,7 +2,7 @@
   "name": "MyApp — Мій додаток",
   "short_name": "MyApp",
   "description": "Мій PWA додаток",
-  "start_url": "/",
+  "start_url": "/1/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0F0F1A",
